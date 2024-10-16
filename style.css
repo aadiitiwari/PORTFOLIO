@@ -66,11 +66,11 @@ nav ul li a:hover::after {
   font-size: 30px;
 }
 
-.header-text h1 {
-  font-size: 60px;
+.header-text p {
+  font-size: 35px;
   margin-top: 20px;
 }
-.header-text h1 span {
+.header-text p span {
   color: #ff004f;
 }
 
